@@ -1,0 +1,1664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<!-->MM uks<-->
+
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото общего вида УКС (со стороны АММ)</string>
+        <key>nameForReport</key>
+        <string>УКС Общий вид спереди</string>
+        <key>description</key>
+        <string>Видно все оборудование, установленное на УКС, без каких-либо срезов
+(от принтера и планшетного сканера, до системных блоков в нижней части УКС). ПК и ИБП должны быть установлены на полке, на подставке. В качестве подставки нельзя использовать
+подручные средства в виде рулонов с чековой лентой, пачек с бумагой А4, картонных каробок, досточек, тряпок и т.д. В случае если ПК установлен на полу необходимо сделать заявку в
+СГИ для изготовления подставки</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото общего вида УКС
+(вид сзади)</string>
+        <key>nameForReport</key>
+        <string>УКС Общий вид сзади</string>
+        <key>description</key>
+        <string>Видно все оборудование, установленное на УКС, без каких-либо срезов
+(от принтера и планшетного сканера, до системных блоков в нижней части УКС). Видно как уложена СКС, кабели. Крышки, панели, короба перекрывающие вид должны быть
+демонтированы</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото индикации на шлюзе</string>
+        <key>nameForReport</key>
+        <string>УКС Голосовой шлюз (WiFi)</string>
+        <key>description</key>
+        <string>Видно, что на голосовом шлюзе отключен WiFi (нет индикации у значка WiFi), фотография не должна быть вырвана из контектса.</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото общего вида УКС
+(вид сзади средняя часть)</string>
+        <key>nameForReport</key>
+        <string>УКС Общий вид центр</string>
+        <key>description</key>
+        <string>Видно сетевое оборудование(хабы, роутеры, переключатель);
+Видно маркировку проводов, оборудования и всех блоков питания</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото общего вида УКС
+(вид сзади нижняя часть)</string>
+        <key>nameForReport</key>
+        <string>УКС Общий вид расположение</string>
+        <key>description</key>
+        <string>Видно расположение ИБП, системных блоков (ПКД, Сервера, Касс);
+Видно маркировку ИБП, системных блоков (ПКД, Сервера, Касс);</string>
+    </dict>
+ 
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото обслуженного ПКД</string>
+        <key>nameForReport</key>
+        <string>УКС ПК Директора</string>
+        <key>description</key>
+        <string>Видно, что внутри системного блока отсутствует грязь и пыль (в том числе на кулере, радиаторе, материнской плате и в нижней части системного блока)</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото обслуженного Серверного ПК</string>
+        <key>nameForReport</key>
+        <string>УКС ПК Сервер</string>
+        <key>description</key>
+        <string>Видно, что внутри системного блока отсутствует грязь и пыль (в том числе на кулере, радиаторе, материнской плате и в нижней части системного блока)</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото сетевого оборудования</string>
+        <key>nameForReport</key>
+        <string>УКС Хаб</string>
+        <key>description</key>
+        <string>Видно маркировку проводов и хаба для оборудования (кроме ТД)</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото сетевого оборудования для ТД</string>
+        <key>nameForReport</key>
+        <string>УКС Хаб ТД</string>
+        <key>description</key>
+        <string>Видно маркировку проводов и хаба для ТД</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото сетевого оборудования доступа в интернет</string>
+        <key>nameForReport</key>
+        <string>УКС Микротики</string>
+        <key>description</key>
+        <string>Видно маркировку роутеров (основной и резерв) и проводов, подключенных к ним</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото переключателя</string>
+        <key>nameForReport</key>
+        <string>УКС Переключатель</string>
+        <key>description</key>
+        <string>Видно маркировку на переключателе</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото маркировки БП в блоках розеток</string>
+        <key>nameForReport</key>
+        <string>УКС Маркировка БП</string>
+        <key>description</key>
+        <string>Видно маркировку на всех блоках питания</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото ключа ЕГАИС</string>
+        <key>nameForReport</key>
+        <string>УКС ЕГАИС</string>
+        <key>description</key>
+        <string>Видно, что ключ ЕГАИС пристегнут стяжкой к корпусу системного блока ПКД</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото подключения принтера</string>
+        <key>nameForReport</key>
+        <string>УКС Принтер подключение</string>
+        <key>description</key>
+        <string>Видно подключение принтера (по USB/Ethernet(LAN))</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото принтера</string>
+        <key>nameForReport</key>
+        <string>УКС Принтер</string>
+        <key>description</key>
+        <string>Видно фасад принтера, наличие лотка</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото тестовой печати принтера А4</string>
+        <key>nameForReport</key>
+        <string>УКС Тестовая печать</string>
+        <key>description</key>
+        <string>Оборудование печатает  чисто, без замятий (предоставить тестовую печать принтера А4)</string>
+    </dict>
+ 
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Служба NUT</string>
+        <key>nameForReport</key>
+        <string>Служба NUT</string>
+        <key>description</key>
+        <string>Служба NUT видит ИБП сервера
+        Вывести информацию от ИБП, на сервере вывести команду "upsc ups"
+        </string>
+    </dict>
+    
+    <!-->KE uks MM<-->
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото KE Серверного ПК</string>
+        <key>nameForReport</key>
+        <string>УКС ПК Сервер KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото KE ИБП Сервер</string>
+        <key>nameForReport</key>
+        <string>УКС ИБП Сервер KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото KE ПКД</string>
+        <key>nameForReport</key>
+        <string>УКС ПКД KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото KE ИБП ПКД</string>
+        <key>nameForReport</key>
+        <string>УКС ИБП ПКД KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото KE Монитор</string>
+        <key>nameForReport</key>
+        <string>УКС Монитор KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото KE Голосовой шлюз</string>
+        <key>nameForReport</key>
+        <string>УКС Голосовой шлюз KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото KE Роутер мастер</string>
+        <key>nameForReport</key>
+        <string>УКС Роутер мастер KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото KE Роутер резерв</string>
+        <key>nameForReport</key>
+        <string>УКС Роутер резерв KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото KE принтер</string>
+        <key>nameForReport</key>
+        <string>УКС принтер KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото KE Сканер А4</string>
+        <key>nameForReport</key>
+        <string>УКС Сканер А4 KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <!-->CASH MM<-->
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото общего вида Касса (общий)</string>
+        <key>nameForReport</key>
+        <string>Общий Вид</string>
+        <key>description</key>
+        <string>Видно расположение оборудования (ККМ, сканер ШК, клавиатура кассира, монитор кассира, ТБО, дисплей покупателя, весы) установленного на столе</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото общего вида Касса (со стороны покупателя)</string>
+        <key>nameForReport</key>
+        <string>Общий Вид (покупатель)</string>
+        <key>description</key>
+        <string>Видно как смонтирован ТБО, заведен ли провод в подставку или притянут стяжкой к подствке;
+Видно, что дисплей покупателя исправен и направлен в сторону покупателя</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото общего вида Касса (снизу)</string>
+        <key>nameForReport</key>
+        <string>Общий Вид Оборудование</string>
+        <key>description</key>
+        <string>Видно что ПК и ИБП расположены в кассовом боксе, а не на полу. Четко виден ИБП и кассовый ПК;
+Видно маркировку ИБП и кассового ПК. ПК и ИБП должны быть установлены в кассовом боксе, на подставке. В качестве подставки нельзя использовать подручные средства в виде рулонов
+с чековой лентой, пачек с бумагой А4, картонных каробок, досточек, тряпок и т.д. В случае если ПК установлен на полу необходимо сделать заявку в СГИ для изготовления подставки</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото общего вида Касса (монтаж проводов)</string>
+        <key>nameForReport</key>
+        <string>Монтаж СКС</string>
+        <key>description</key>
+        <string>Видно, что кабели стянуты стяжками, протянуты через технологические отверстия под столом</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото обслуженного Кассового ПК</string>
+        <key>nameForReport</key>
+        <string> Внутри</string>
+        <key>description</key>
+        <string>Видно, что внутри системного блока отсутствует грязь и пыль (в том числе на кулере, радиаторе, материнской плате и в нижней части системного блока)</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото маркировки БП</string>
+        <key>nameForReport</key>
+        <string>Маркировка БП</string>
+        <key>description</key>
+        <string>Четко видно маркировку всех блоков питания
+Видно, что блок розеток не висит на проводах, а прикреплен стяжками к боксу/ИБП</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото чеков ККМ</string>
+        <key>nameForReport</key>
+        <string>Чек</string>
+        <key>description</key>
+        <string>Четко видно снятый Х-отчет (без гашения):дату на чеке, качество печати, сработавший отрезчик.</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото ККТ</string>
+        <key>nameForReport</key>
+        <string>ККТ</string>
+        <key>description</key>
+        <string>Видно что ККМ иммет все элементы(крушка, корпус и т.д.)</string>
+    </dict>
+    
+    <!-->KE cash MM<-->
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE ПК</string>
+        <key>nameForReport</key>
+        <string>KE ПК</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE ИБП</string>
+        <key>nameForReport</key>
+        <string>KE ИБП</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE ККТ</string>
+        <key>nameForReport</key>
+        <string>KE ККТ</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE Пин Пад</string>
+        <key>nameForReport</key>
+        <string>KE Пин Пад</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE Сканер ШК</string>
+        <key>nameForReport</key>
+        <string>KE Сканер ШК</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE ручной сканер ШК</string>
+        <key>nameForReport</key>
+        <string>KE ручной сканер ШК</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE весы прикассовые</string>
+        <key>nameForReport</key>
+        <string>KE весы прикассовые</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    
+    <!-->MK uks<-->
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото общего вида УКС (со стороны покупателя)</string>
+        <key>nameForReport</key>
+        <string>УКС Общий вид (покупатель)</string>
+        <key>description</key>
+        <string>Видно все оборудование, установленное на УКС, без каких-либо срезов
+(дисплей покупателя, ТБО, мониторы, сканеры ШК)</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото общего вида УКС
+(со стороны продавца, верхняя часть)</string>
+        <key>nameForReport</key>
+        <string>УКС Общий вид 1</string>
+        <key>description</key>
+        <string>Видно все ИТ оборудование установленное на столе (клавиатура кассира, монитор кассира, ТБО, сканер ШК)</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото общего вида УКС
+(со стороны продавца, средняя часть)</string>
+        <key>nameForReport</key>
+        <string>УКС Общий вид 2</string>
+        <key>description</key>
+        <string>Видно сетевое оборудование(хабы, роутеры, голосовой шлюз);
+Видно маркировку проводов, оборудования и всех блоков питания;
+Видно укладку проводов через технологические отверствия;
+Видно расположение принтера.</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото общего вида УКС
+(со стороны продавца, нижняя часть)</string>
+        <key>nameForReport</key>
+        <string>УКС Общий вид 3</string>
+        <key>description</key>
+        <string>Видно расположение ИБП, системных блоков (ПКД, Сервера, Касс);
+Видно маркировку ИБП, системных блоков (ПКД, Сервера, Касс);</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото индикации на шлюзе</string>
+        <key>nameForReport</key>
+        <string>УКС Голосовой шлюз (WiFi)</string>
+        <key>description</key>
+        <string>Видно, что на голосовом шлюзе отключен WiFi (нет индикации у значка WiFi)</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото обслуженного ПКД</string>
+        <key>nameForReport</key>
+        <string>УКС ПКД</string>
+        <key>description</key>
+        <string>Видно, что внутри системного блока отсутствует грязь и пыль (в том числе на кулере, радиаторе, материнской плате и в нижней части системного блока)</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото обслуженного Серверного ПК</string>
+        <key>nameForReport</key>
+        <string>УКС Сервер</string>
+        <key>description</key>
+        <string>Видно, что внутри системного блока отсутствует грязь и пыль (в том числе на кулере, радиаторе, материнской плате и в нижней части системного блока)</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото подключения принтера</string>
+        <key>nameForReport</key>
+        <string>УКС Принтер</string>
+        <key>description</key>
+        <string>Видно подключение принтера (по USB/Ethernet(LAN))</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото принтера</string>
+        <key>nameForReport</key>
+        <string>УКС Принтер</string>
+        <key>description</key>
+        <string>Видно фасад принтера, наличие лотка</string>
+    </dict>
+    
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото переключателя</string>
+        <key>nameForReport</key>
+        <string>УКС Переключатель</string>
+        <key>description</key>
+        <string>Видно маркировку на переключателе</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото сетевого оборудования</string>
+        <key>nameForReport</key>
+        <string>УКС Хаб</string>
+        <key>description</key>
+        <string>Видно маркировку проводов и хаба для оборудования (кроме ТД);</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото сетевого оборудования для ТД</string>
+        <key>nameForReport</key>
+        <string>УКС Хаб ТД</string>
+        <key>description</key>
+        <string>Видно маркировку проводов и хаба для ТД</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото сетевого оборудования доступа в интернет</string>
+        <key>nameForReport</key>
+        <string>УКС Микротики</string>
+        <key>description</key>
+        <string>Видно маркировку роутеров (основной и резерв) и проводов, подключенных к ним</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото маркировки БП в блоках розеток</string>
+        <key>nameForReport</key>
+        <string>УКС Маркировка БП</string>
+        <key>description</key>
+        <string>Видно маркировку на всех блоках битания</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Служба NUT</string>
+        <key>nameForReport</key>
+        <string>Служба NUT</string>
+        <key>description</key>
+        <string>Служба NUT видит ИБП сервера
+        Вывести информацию от ИБП, на сервере вывести команду "upsc ups"
+        </string>
+    </dict>
+    
+    <!-->MK uks KE<-->
+    
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+         <key>object</key>
+        <string>Фото KE серверного ПК</string>
+        <key>nameForReport</key>
+        <string>УКС ПК сервер KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+         <key>object</key>
+        <string>Фото KE ИБП сервер</string>
+        <key>nameForReport</key>
+        <string>УКС ИБП сервер KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+         <key>object</key>
+        <string>Фото KE ПКД</string>
+        <key>nameForReport</key>
+        <string>УКС ПКД KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+         <key>object</key>
+        <string>Фото KE ИБП ПКД</string>
+        <key>nameForReport</key>
+        <string>УКС ИБП ПКД KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+         <key>object</key>
+        <string>Фото KE монитор</string>
+        <key>nameForReport</key>
+        <string>УКС монитор KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+         <key>object</key>
+        <string>Фото KE голосового шлюза</string>
+        <key>nameForReport</key>
+        <string>УКС голосовой шлюз KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+         <key>object</key>
+        <string>Фото KE роутер мастер</string>
+        <key>nameForReport</key>
+        <string>УКС роутер мастер KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+         <key>object</key>
+        <string>Фото KE роутер резерв</string>
+        <key>nameForReport</key>
+        <string>УКС роутер резерв KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+         <key>object</key>
+        <string>Фото KE принтер</string>
+        <key>nameForReport</key>
+        <string>УКС принтер KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут </string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>uks</string>
+         <key>object</key>
+        <string>Фото тестовой печати принтера А4</string>
+        <key>nameForReport</key>
+        <string>УКС Тестовая печать</string>
+        <key>description</key>
+        <string>Оборудование печатает  чисто, без замятий (предоставить тестовую печать принтера А4)</string>
+    </dict>
+    
+    
+    <!-->MK cash<-->
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото общего вида Касса (общий)</string>
+        <key>nameForReport</key>
+        <string>Общий Вид</string>
+        <key>description</key>
+        <string>Видно расположение оборудования, установленного на столе (ККМ, ручной сканер ШК, клавиатура кассира, монитор кассира)
+Видно расположение оборудования, установленного под столом (ИБП, ПК кассира, блок розеток)
+Видно маркировку оборудования (ИБП, ПК кассира маркировка БП)</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото общего вида Касса  (со стороны покупателя)</string>
+        <key>nameForReport</key>
+        <string>Общий Вид (покупатель)</string>
+        <key>description</key>
+        <string>Видно как смонтирован ТБО;
+Видно, что дисплей покупателя направлен в сторону покупателя</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото общего вида (со стороны продавца)
+(нижняя часть)</string>
+        <key>nameForReport</key>
+        <string>Общий Вид Оборудование</string>
+        <key>description</key>
+        <string>Видно расположение кассового ПК, ИБП, блока розеток</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото макировки ИБП и ПК</string>
+        <key>nameForReport</key>
+        <string>Маркировка оборудования</string>
+        <key>description</key>
+        <string>Видно отчетливо маркировку ИБП и ПК</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото маркировки БП</string>
+        <key>nameForReport</key>
+        <string>Маркировка БП</string>
+        <key>description</key>
+        <string>Видно отчетливо маркировку блоков питания
+Видно, что блок розеток прикреплен стяжками к ИБП</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото обслуженного Кассового ПК</string>
+        <key>nameForReport</key>
+        <string>Обслуженная</string>
+        <key>description</key>
+        <string>Видно, что внутри системного блока отсутствует грязь и пыль (в том числе на кулере, радиаторе, материнской плате и в нижней части системного блока)</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото чеков ККМ</string>
+        <key>nameForReport</key>
+        <string>Фото Чека</string>
+        <key>description</key>
+        <string>Видно снятый Х-отчет (без гашения):
+- дату на чеке,
+- качество печати,
+- сработавший отрезчик.</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото ККТ</string>
+        <key>nameForReport</key>
+        <string>ККТ</string>
+        <key>description</key>
+        <string>Видно что ККМ иммет все элементы(крушка, корпус и т.д.)</string>
+    </dict>
+    
+    <!-->MK cash KE<-->
+    
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE ПК</string>
+        <key>nameForReport</key>
+        <string>KE ПК</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE ИБП</string>
+        <key>nameForReport</key>
+        <string>KE ИБП</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE ККТ</string>
+        <key>nameForReport</key>
+        <string>KE ККТ</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE Пин Пад</string>
+        <key>nameForReport</key>
+        <string>KE Пин Пад</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE сканер ШК</string>
+        <key>nameForReport</key>
+        <string>KE сканер ШК</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mk</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE ручной сканер ШК</string>
+        <key>nameForReport</key>
+        <string>KE ручной сканер ШК</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    
+    <!-->MА uks<-->
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото общего вида АРМ (со стороны покупателя)</string>
+        <key>nameForReport</key>
+        <string>АРМ Общий вид (покупатель)</string>
+        <key>description</key>
+        <string>Видно все оборудование, установленное на АРМ, без каких-либо срезов
+(дисплей покупателя, ТБО)</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото общего вида АРМ (со стороны продавца)</string>
+        <key>nameForReport</key>
+        <string>АРМ Общий вид 1</string>
+        <key>description</key>
+        <string>Видно рабочие места кассиров и смонтированное ИТ оборудование на них (2 фото под углом в горизонтальной проекции);
+Видно маркировку смонтированного оборудования на АРМ</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото общего вида АРМ (со стороны продавца)</string>
+        <key>nameForReport</key>
+        <string>
+АРМ Общий вид 2</string>
+        <key>description</key>
+        <string>Видно рабочие места кассиров и смонтированное ИТ оборудование на них (2 фото под углом в горизонтальной проекции);
+Видно маркировку смонтированного оборудования на АРМ</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото коммутатора</string>
+        <key>nameForReport</key>
+        <string>АРМ Хаб</string>
+        <key>description</key>
+        <string>Видно маркировку хаба (коммутатора);
+Видно маркировку проводов, скоммутированных в хаб (коммутатор)</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото термопринтера</string>
+        <key>nameForReport</key>
+        <string>АРМ Термопринтер</string>
+        <key>description</key>
+        <string>Видно, что термопринтер промаркирован
+Видно, что термопринтер печатает без полос/грязи</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото принтера</string>
+        <key>nameForReport</key>
+        <string>АРМ Принтер</string>
+        <key>description</key>
+        <string>Видно фасад принтера, наличие лотка</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>uks</string>
+        <key>object</key>
+        <string>Фото подключения принтера</string>
+        <key>nameForReport</key>
+        <string>АРМ Принтер подключение</string>
+        <key>description</key>
+        <string>Видно подключение принтера (по USB/Ethernet(LAN))</string>
+    </dict>
+    
+    <!-->MA uks KE<-->
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>uks</string>
+      <key>object</key>
+        <string>Фото KE хаб</string>
+        <key>nameForReport</key>
+        <string>АРМ KE хаб</string>
+        <key>description</key>
+        <string>На фотографии наклейки KE должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>uks</string>
+      <key>object</key>
+        <string>Фото KE термопринтер</string>
+        <key>nameForReport</key>
+        <string>АРМ KE термопринтер</string>
+        <key>description</key>
+        <string>На фотографии наклейки KE должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>uks</string>
+      <key>object</key>
+        <string>Фото KE принтер</string>
+        <key>nameForReport</key>
+        <string>АРМ KE принтер</string>
+        <key>description</key>
+        <string>На фотографии наклейки KE должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>uks</string>
+      <key>object</key>
+        <string>Фото KE роутер мастер</string>
+        <key>nameForReport</key>
+        <string>АРМ KE роутер мастер</string>
+        <key>description</key>
+        <string>На фотографии наклейки KE должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>uks</string>
+      <key>object</key>
+        <string>Фото KE роутер резерв</string>
+        <key>nameForReport</key>
+        <string>АРМ KE роутер резерв</string>
+        <key>description</key>
+        <string>На фотографии наклейки KE должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>uks</string>
+      <key>object</key>
+        <string>Фото KE телефон</string>
+        <key>nameForReport</key>
+        <string>АРМ KE телефон</string>
+        <key>description</key>
+        <string>На фотографии наклейки KE должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    <!-->MA cash<-->
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото общего вида Касса (общий)</string>
+        <key>nameForReport</key>
+        <string>Общий Вид</string>
+        <key>description</key>
+        <string>Видно расположение оборудования, установленного на столе (ККМ, ручной сканер ШК, клавиатура кассира, монитор кассира)
+Видно расположение оборудования, установленного под столом (ИБП, ПК кассира, блок розеток)
+Видно маркировку оборудования (ИБП, ПК кассира маркировка БП)</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото общего вида Касса (со стороны покупателя)</string>
+        <key>nameForReport</key>
+        <string>Общий Вид (покупатель)</string>
+        <key>description</key>
+        <string>Видно как смонтирован ТБО;
+Видно, что дисплей покупателя направлен в сторону покупателя</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото общего вида (со стороны продавца)
+(нижняя часть)</string>
+        <key>nameForReport</key>
+        <string>Общий Вид Оборудование</string>
+        <key>description</key>
+        <string>Видно монтаж проводов до кассы, блока розеток, ИБП, кассового ПК;</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото макировки ИБП и ПК</string>
+        <key>nameForReport</key>
+        <string>Маркировка оборудования</string>
+        <key>description</key>
+        <string>Видно отчетливо маркировку ИБП и ПК</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото маркировки БП</string>
+        <key>nameForReport</key>
+        <string>Маркировка БП</string>
+        <key>description</key>
+        <string>Видно отчетливо маркировку всех блоков питания
+Видно, что блок розеток не висит на проводах, а прикреплен стяжками к боксу/ИБП</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото обслуженного Кассового ПК</string>
+        <key>nameForReport</key>
+        <string>Обслуженная</string>
+        <key>description</key>
+        <string>Видно, что внутри системного блока отсутствует грязь и пыль (в том числе на кулере, радиаторе, материнской плате и в нижней части системного блока)</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото чеков ККМ</string>
+        <key>nameForReport</key>
+        <string>Фото Чека</string>
+        <key>description</key>
+        <string>Видно снятый Х-отчет (без гашения):
+- дату на чеке,
+- качество печати,
+- сработавший отрезчик.</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото ККТ</string>
+        <key>nameForReport</key>
+        <string>ККТ</string>
+        <key>description</key>
+        <string>Видно что ККМ иммет все элементы(крушка, корпус и т.д.)</string>
+    </dict>
+    
+    <!-->MA cash KE<-->
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE ПК</string>
+        <key>nameForReport</key>
+        <string>KE ПК</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE ИБП</string>
+        <key>nameForReport</key>
+        <string>KE ИБП</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE ККТ</string>
+        <key>nameForReport</key>
+        <string>KE ККТ</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE Пин Пад</string>
+        <key>nameForReport</key>
+        <string>KE Пин Пад</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE монитор</string>
+        <key>nameForReport</key>
+        <string>KE монитор</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>ma</string>
+        <key>kit</key>
+        <string>cash</string>
+        <key>object</key>
+        <string>Фото KE ручной сканер ШК</string>
+        <key>nameForReport</key>
+        <string>KE ручной сканер ШК</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    
+    
+    <!-->other<-->
+    
+    <!-->TD<-->
+    
+    <dict>
+        <key>format</key>
+        <string>other</string>
+        <key>kit</key>
+        <string>td</string>
+        <key>object</key>
+        <string>Фото ТД (Общий вид)</string>
+        <key>nameForReport</key>
+        <string>Монтаж</string>
+        <key>description</key>
+        <string>Видно на какой высоте и как смонтирована ТД</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>other</string>
+        <key>kit</key>
+        <string>td</string>
+        <key>object</key>
+        <string>Фото ТД (Фокус)</string>
+        <key>nameForReport</key>
+        <string>Маркировка</string>
+        <key>description</key>
+        <string>Видно маркировку на ТД</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>other</string>
+        <key>kit</key>
+        <string>td</string>
+        <key>object</key>
+        <string>Фото ТД KE</string>
+        <key>nameForReport</key>
+        <string>KE</string>
+        <key>description</key>
+        <string>Видно маркировку на ТД</string>
+    </dict>
+    
+    <!-->TSD<-->
+    
+    <dict>
+        <key>format</key>
+        <string>other</string>
+        <key>kit</key>
+        <string>tsd</string>
+        <key>object</key>
+        <string>Фото ТСД (Общий вид)</string>
+        <key>nameForReport</key>
+        <string>Вид</string>
+        <key>description</key>
+        <string>Терминал сбора данных в исправном состоянии, заряжается</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>other</string>
+        <key>kit</key>
+        <string>tsd</string>
+        <key>object</key>
+        <string>Фото ТСД KE</string>
+        <key>nameForReport</key>
+        <string>KE</string>
+        <key>description</key>
+        <string>Видно маркировку на ТД</string>
+    </dict>
+    
+    <!-->MP<-->
+    
+    <dict>
+        <key>format</key>
+        <string>other</string>
+        <key>kit</key>
+        <string>mp</string>
+        <key>object</key>
+        <string>Фото Мобильный принтер (общий вид)</string>
+        <key>nameForReport</key>
+        <string>Вид</string>
+        <key>description</key>
+        <string>Оборудование в исправном состоянии, нет внешних индикаций о проблеме</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>other</string>
+        <key>kit</key>
+        <string>mp</string>
+        <key>object</key>
+        <string>Фото Мобильный принтер (печать)</string>
+        <key>nameForReport</key>
+        <string>печать</string>
+        <key>description</key>
+        <string>Печать на этикетке термопринтера не имеет повреждений</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>other</string>
+        <key>kit</key>
+        <string>mp</string>
+        <key>object</key>
+        <string>Фото мобильный принтер KE</string>
+        <key>nameForReport</key>
+        <string>KE</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    <!-->other<-->
+    
+    <dict>
+        <key>format</key>
+        <string>other</string>
+        <key>kit</key>
+        <string>other</string>
+        <key>object</key>
+        <string>Планограмма</string>
+        <key>nameForReport</key>
+        <string>Планограмма</string>
+        <key>description</key>
+        <string>Видно, в какой части ТЗ находится ТД (каждая отметка ТД подписана, как на миркировке)</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>other</string>
+        <key>kit</key>
+        <string>other</string>
+        <key>object</key>
+        <string>Акт выполненных работ 1 лист</string>
+        <key>nameForReport</key>
+        <string>Акт выполненных работ 1 лист</string>
+        <key>description</key>
+        <string>В акте должны быть отмечены фактически выполненные пункты, если требуется комментарии. Акты должны быть подписаны ДММ/ТММ и системотехником проводившим ТО.В акте
+обязательно должна быть указана дата проведения ТО, формат и название магазина.</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>other</string>
+        <key>kit</key>
+        <string>other</string>
+        <key>object</key>
+        <string>Акт выполненных работ 2 лист</string>
+        <key>nameForReport</key>
+        <string>Акт выполненных работ 2 лист</string>
+        <key>description</key>
+        <string>В акте должны быть отмечены фактически выполненные пункты, если требуется комментарии. Акты должны быть подписаны ДММ/ТММ и системотехником проводившим ТО.В акте
+обязательно должна быть указана дата проведения ТО, формат и название магазина.</string>
+    </dict>
+    
+    <dict>
+        <key>format</key>
+        <string>mm</string>
+        <key>kit</key>
+        <string>other</string>
+        <key>object</key>
+        <string>Фото KE весы напольные</string>
+        <key>nameForReport</key>
+        <string>KE весы напольные</string>
+        <key>description</key>
+        <string>На фотографии наклейки КЕ должно быть видно наклейку и само оборудование, фотографии только с крупным планом наклейки приниматься не будут</string>
+    </dict>
+    
+    
+    
+    
+</array>
+</plist>
+ 
